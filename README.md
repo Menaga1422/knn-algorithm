@@ -1,4 +1,4 @@
-# knn-algorithm
+
 
 	• KNN is a algorithm that classifies data points based on the points that are most similar to it.
 	• Algorithm that stores all available cases and classifies new cases based on similarity measure (distance functions)
